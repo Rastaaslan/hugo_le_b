@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "Embedded In Mind"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]

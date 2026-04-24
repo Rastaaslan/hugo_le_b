@@ -1,0 +1,63 @@
+{{ define "main" }}
+{{ $svg := readFile "static/images/maquette_embedded_final.svg" }}
+{{ $svg = replace $svg "<svg " "<svg class=\"figma-svg\" " }}
+{{ $svg = replaceRE `xlink:href="([^"]+)"` `href="$1" xlink:href="$1"` $svg }}
+{{ $servicesHref := .Param "servicesHref" | default "#services-anchor" }}
+{{ $laboHref := .Param "laboHref" | default "#labo-anchor" }}
+{{ $cvHref := .Param "cvHref" | default "#contact-form" }}
+<main class="figma-page" aria-label="{{ .Site.Title }}">
+  {{ $svg | safeHTML }}
+  <div class="interactive-layer" aria-label="Elements interactifs">
+    <span id="services-anchor" class="interactive-anchor interactive-anchor--services" aria-hidden="true"></span>
+    <span id="labo-anchor" class="interactive-anchor interactive-anchor--labo" aria-hidden="true"></span>
+    <span id="contact-anchor" class="interactive-anchor interactive-anchor--contact" aria-hidden="true"></span>
+
+    <a
+      class="interactive-button interactive-button--services"
+      href="{{ $servicesHref }}"
+      aria-label="Voir tous nos accompagnements"
+      title="Voir tous nos accompagnements"
+    ></a>
+    <a
+      class="interactive-button interactive-button--labo"
+      href="{{ $laboHref }}"
+      aria-label="Aller a la section Le labo"
+      title="Aller a la section Le labo"
+    ></a>
+    <a
+      class="interactive-button interactive-button--cv"
+      href="{{ $cvHref }}"
+      aria-label="Aller au formulaire de contact"
+      title="Aller au formulaire de contact"
+    ></a>
+
+    <form id="contact-form" class="contact-overlay-form" action="" method="post" novalidate aria-label="Formulaire de contact">
+      <div class="contact-field contact-field--name">
+        <label class="visually-hidden" for="contact-name">Nom et prenom</label>
+        <input id="contact-name" name="name" type="text" autocomplete="name">
+      </div>
+      <div class="contact-field contact-field--company">
+        <label class="visually-hidden" for="contact-company">Societe</label>
+        <input id="contact-company" name="company" type="text" autocomplete="organization">
+      </div>
+      <div class="contact-field contact-field--phone">
+        <label class="visually-hidden" for="contact-phone">Telephone</label>
+        <input id="contact-phone" name="phone" type="tel" autocomplete="tel">
+      </div>
+      <div class="contact-field contact-field--mail">
+        <label class="visually-hidden" for="contact-mail">Email</label>
+        <input id="contact-mail" name="email" type="email" autocomplete="email">
+      </div>
+      <div class="contact-field contact-field--request">
+        <label class="visually-hidden" for="contact-request">Type de demande</label>
+        <input id="contact-request" name="request" type="text" autocomplete="off">
+      </div>
+      <div class="contact-field contact-field--message">
+        <label class="visually-hidden" for="contact-message">Message</label>
+        <textarea id="contact-message" name="message"></textarea>
+      </div>
+      <button class="visually-hidden" type="submit">Envoyer</button>
+    </form>
+  </div>
+</main>
+{{ end }}
