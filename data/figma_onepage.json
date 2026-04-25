@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "sourceFigmaUrl": "https://www.figma.com/design/Q8r3LAviw8wIEhKPJUPeKR/maquette_embedded?node-id=0-1",
+    "fileKey": "Q8r3LAviw8wIEhKPJUPeKR",
+    "rootNodeId": "0:1",
+    "pageNodeId": "3:964",
+    "syncedAt": "2026-04-25"
+  },
+  "formatted": {
+    "ctaTitle": {
+      "line1": "Faites décoller vos projets grâce",
+      "line2Prefix": "à notre ",
+      "line2Highlight": "accompagnement sur-mesure"
+    }
+  },
+  "text": {
+    "footer-text": "2025 - 2026 Tous droits réservés © Embeddedd in Mind | Site designé par Emgaa Communication",
+    "libelle-message": "Votre message",
+    "libelle-demande": "Votre demande",
+    "libelle-telephone": "Votre téléphone",
+    "libelle-email": "Votre email",
+    "libelle-societe": "Votre société",
+    "libelle-nom-prenom": "Nom et Prénom",
+    "label-contact": "Contact",
+    "contact-moi-paragraph-1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis",
+    "contact-moi-role": "Fondateur d’Embedded in Mind\nIngénieur systèmes embarqués |\nExpertise DevOps & Open Source",
+    "contact-moi-nom": "Bastien Blochet",
+    "contact-moi-paragraph-3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet",
+    "contact-moi-expertise": "Expertise",
+    "contact-moi-paragraph-2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dict",
+    "label-mon-cv": "Mon C.V",
+    "contact-moi-coords": "Mes coordonnées\n07.81.51.40.29\nbastien.blochet@e-mind.fr",
+    "label-idees": "Vos idées",
+    "label-expertise": "Nos expertises",
+    "label-aventure": "Notre aventure",
+    "decouvrez-bureau-titre": "Découvrez\nle bureau d’étude",
+    "decouvrez-bureau-texte": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum.",
+    "le-labo": "Le Labo",
+    "financer-texte": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum.",
+    "finance-accomp-titre": "Financez notre\naccompagnement",
+    "texte-accomp": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque.",
+    "faites-decoller-projets": "Faites décoller vos projets grâce\nà notre accompagnement sur-mesure",
+    "tous-nos-accomp": "Tous nos accompagnements",
+    "texte-presta-2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque.",
+    "titre-presta-2": "Pour les idées en développement\nIngénieur systèmes embarqués | Expertise\nDevOps & Open Source",
+    "prestation-2": "Prestation 2",
+    "texte-presta-1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. Donec efficitur, sapien vitae cursus dictum, arcu velit feugiat risus, a mollis ipsum sem at libero. Donec diam nibh, hendrerit sit amet est eu, iaculis sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis consequat lacus, sed tristique augue. sagittis sapien. Duis lectus augue, dapibus vitae turpis vel, sollicitudin iaculis neque.",
+    "titre-presta-1": "Pour les idées en développement\nIngénieur systèmes embarqués | Expertise\nDevOps & Open Source",
+    "prestation-1": "Prestation 1",
+    "notre-accompagnement": "Notre\naccompagnement",
+    "hero-subtitle": "Un bureau d’étude au coeur de la vallée de l’arve.",
+    "hero-title": "Ensemble,\nfaisons décoller\nvos innovations !"
+  },
+  "images": {
+    "heroImage": {
+      "nodeId": "image",
+      "src": "images/hero.png",
+      "alt": "Atelier collaboratif autour d'un projet d'innovation"
+    },
+    "cirLogo": {
+      "nodeId": "cir",
+      "src": "images/cir.png",
+      "alt": "Logo Crédit impôt recherche"
+    },
+    "contactPortrait": {
+      "nodeId": "pp-stylisee",
+      "src": "images/decor.svg",
+      "alt": "Portrait stylisé de Bastien Blochet"
+    },
+    "contactBackground": {
+      "nodeId": "contact-demandes-bg",
+      "src": "images/portrait.jpg",
+      "alt": ""
+    }
+  }
+}
