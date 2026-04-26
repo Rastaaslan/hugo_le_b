@@ -1,0 +1,12 @@
+{
+  "buildOk": true,
+  "visualScore": null,
+  "missingAssets": [],
+  "missingTexts": [],
+  "warnings": [
+    "MCP extraction skipped: The optional `mcp` package is required for FIGMA_MCP_* integration.",
+    "Playwright screenshot skipped: Playwright is not installed in the current environment.",
+    "fidelityMode=balanced",
+    "contentMode=data-file"
+  ]
+}

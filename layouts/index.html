@@ -1,279 +1,33 @@
-{{ define "main" }}
-  {{ $figma := hugo.Data.figma_onepage }}
-  {{ $formatted := $figma.formatted }}
-  {{ $text := $figma.text }}
-  {{ $images := $figma.images }}
-  {{ $ctaTitle := index $formatted "ctaTitle" }}
-  {{ $heroImage := index $images "heroImage" }}
-  {{ $cirLogo := index $images "cirLogo" }}
-  {{ $contactPortrait := index $images "contactPortrait" }}
-  {{ $contactBackground := index $images "contactBackground" }}
-  {{ $presta1Title := split (index $text "titre-presta-1") "\n" }}
-  {{ $presta2Title := split (index $text "titre-presta-2") "\n" }}
-  {{ $contactRole := split (index $text "contact-moi-role") "\n" }}
-  {{ $contactCoords := split (index $text "contact-moi-coords") "\n" }}
-
-  <main
-    id="Page"
-    class="page"
-    aria-label="{{ .Site.Title }}"
-    style="--contact-background-image: url('{{ index $contactBackground "src" | relURL }}')"
-  >
-    <section id="intro-accompagnement">
-      <section id="Hero">
-        <div id="background" aria-hidden="true"></div>
-
-        <div id="hero-decor" aria-hidden="true">
-          <img class="vector-svg" src="{{ "images/figma/hero-decor.svg" | relURL }}" alt="">
-        </div>
-
-        <div id="Forme-over-image" aria-hidden="true">
-          <img class="vector-svg" src="{{ "images/figma/hero-foreground.svg" | relURL }}" alt="">
-        </div>
-
-        <figure id="hero-image">
-          <div id="image-mask">
-            <div id="image_background_shape" aria-hidden="true">
-              <img class="vector-svg" src="{{ "images/figma/hero-image-background-shape.svg" | relURL }}" alt="">
-            </div>
-            <div id="image-photo-frame">
-              <img
-                id="image"
-                src="{{ index $heroImage "src" | relURL }}"
-                alt="{{ index $heroImage "alt" }}"
-              >
-            </div>
-          </div>
-        </figure>
-
-        <div id="hero-content">
-          <h1 id="hero-title">{{ partial "multiline-text.html" (dict "value" (index $text "hero-title")) }}</h1>
-          <p id="hero-subtitle">{{ index $text "hero-subtitle" }}</p>
-        </div>
-      </section>
-
-      <section id="accompagnement">
-        <div id="accompagnement-main">
-          <div id="accompagnement-main-decor" aria-hidden="true">
-            <div id="forme-gauche">{{ partial "vectors/forme-gauche.html" . }}</div>
-          </div>
-
-          <header id="accompagnement-header">
-            <h2 id="notre-accompagnement">{{ partial "multiline-text.html" (dict "value" (index $text "notre-accompagnement")) }}</h2>
-          </header>
-
-          <div id="prestations">
-            <article id="presta-1">
-              <p id="prestation-1">{{ index $text "prestation-1" }}</p>
-              <h3 id="titre-presta-1">
-                <span class="prestation-title-line prestation-title-line-primary">{{ index $presta1Title 0 }}</span>
-                <span class="prestation-title-line prestation-title-line-secondary">{{ index $presta1Title 1 }}</span>
-                <span class="prestation-title-line prestation-title-line-secondary">{{ index $presta1Title 2 }}</span>
-              </h3>
-              <p id="texte-presta-1">{{ index $text "texte-presta-1" }}</p>
-            </article>
-
-            <article id="presta-2">
-              <p id="prestation-2">{{ index $text "prestation-2" }}</p>
-              <h3 id="titre-presta-2">
-                <span class="prestation-title-line prestation-title-line-primary">{{ index $presta2Title 0 }}</span>
-                <span class="prestation-title-line prestation-title-line-secondary">{{ index $presta2Title 1 }}</span>
-                <span class="prestation-title-line prestation-title-line-secondary">{{ index $presta2Title 2 }}</span>
-              </h3>
-              <p id="texte-presta-2">{{ index $text "texte-presta-2" }}</p>
-            </article>
-          </div>
-
-          <a id="button-accompagnement" class="cta-skew" href="#embedded" aria-label="Découvrir tous les accompagnements">
-            <span id="fond-tous-nos-accomp" aria-hidden="true">{{ partial "vectors/button-accompagnement-bg.html" . }}</span>
-            <span id="tous-nos-accomp">{{ index $text "tous-nos-accomp" }}</span>
-          </a>
-        </div>
-
-        <div id="accompagnement-cta">
-          <div id="accompagnement-cta-decor" aria-hidden="true">{{ partial "vectors/accompagnement-cta-decor.html" . }}</div>
-
-          <div id="accompagnement-cta-main">
-            <p id="faites-decoller-projets">
-              <span class="cta-title-line">{{ index $ctaTitle "line1" }}</span>
-              <span class="cta-title-line"><span>{{ index $ctaTitle "line2Prefix" }}</span><span class="cta-title-highlight">{{ index $ctaTitle "line2Highlight" }}</span></span>
-            </p>
-            <p id="texte-accomp">{{ index $text "texte-accomp" }}</p>
-          </div>
-        </div>
-      </section>
-    </section>
-
-    <section id="embedded">
-      <header id="embedded-header">
-        <div id="logo-embedded" aria-hidden="true">{{ partial "vectors/logo-embedded.html" . }}</div>
-      </header>
-
-      <div id="embedded-main">
-        <div id="embedded-infos">
-          <div id="embedded-infos-decouvre">
-            <div id="embedded-decouvre-bureau">
-              <h2 id="decouvrez-bureau-titre">{{ partial "multiline-text.html" (dict "value" (index $text "decouvrez-bureau-titre")) }}</h2>
-              <p id="decouvrez-bureau-texte">{{ index $text "decouvrez-bureau-texte" }}</p>
-
-              <a id="embedded-button-labo" class="cta-skew" href="#contact" aria-label="Découvrir le labo">
-                <span id="fond-le-labo" aria-hidden="true">{{ partial "vectors/button-labo-bg.html" . }}</span>
-                <span id="le-labo">{{ index $text "le-labo" }}</span>
-              </a>
-            </div>
-          </div>
-
-          <div id="embedded-infos-financez">
-            <div id="embedded-financez-accompagnement">
-              <h2 id="finance-accomp-titre">{{ partial "multiline-text.html" (dict "value" (index $text "finance-accomp-titre")) }}</h2>
-              <p id="financer-texte">{{ index $text "financer-texte" }}</p>
-              <img id="cir" src="{{ index $cirLogo "src" | relURL }}" alt="{{ index $cirLogo "alt" }}">
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div id="embedded-bandeau">
-        <div id="embedded-bandeau-art" aria-hidden="true">{{ partial "vectors/embedded-bandeau.html" . }}</div>
-
-        <div id="bandeau-content">
-          <div id="bandeau-item-idees">
-            <div id="icone-idees" aria-hidden="true">
-              <img src="{{ "images/figma/icone-idees.svg" | relURL }}" alt="">
-            </div>
-            <p id="label-idees">{{ index $text "label-idees" }}</p>
-          </div>
-
-          <div id="bandeau-plus" aria-hidden="true">
-            <img src="{{ "images/figma/bandeau-plus.svg" | relURL }}" alt="">
-          </div>
-
-          <div id="bandeau-item-expertise">
-            <div id="icone-expertise" aria-hidden="true">
-              <img src="{{ "images/figma/icone-expertise.svg" | relURL }}" alt="">
-            </div>
-            <p id="label-expertise">{{ index $text "label-expertise" }}</p>
-          </div>
-
-          <div id="bandeau-egal" aria-hidden="true">
-            <img src="{{ "images/figma/bandeau-egal.svg" | relURL }}" alt="">
-          </div>
-
-          <div id="bandeau-item-aventure">
-            <div id="icone-aventure" aria-hidden="true">
-              <img src="{{ "images/figma/icone-aventure.svg" | relURL }}" alt="">
-            </div>
-            <p id="label-aventure">{{ index $text "label-aventure" }}</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id="contact">
-      <div id="contact-demande-decor">
-        <div id="contact-demandes-bg" aria-hidden="true"></div>
-
-        <div id="contact-decor-bg" aria-hidden="true">
-          <img class="vector-svg" src="{{ "images/figma/contact-decor-bg.svg" | relURL }}" alt="">
-        </div>
-      </div>
-
-      <div id="contact-moi">
-        <div id="contact-moi-header">
-          <figure id="contact-moi-portrait">
-            <img id="pp-stylisee" src="{{ index $contactPortrait "src" | relURL }}" alt="{{ index $contactPortrait "alt" }}">
-          </figure>
-
-          <div id="contact-moi-coords">
-            <span class="contact-coords-title">{{ index $contactCoords 0 }}</span>
-            <span class="contact-coords-phone">{{ index $contactCoords 1 }}</span>
-            <span class="contact-coords-email">{{ index $contactCoords 2 }}</span>
-          </div>
-
-          <a id="button-mon-cv" class="cta-skew" href="mailto:bastien.blochet@e-mind.fr?subject=Demande%20de%20CV" aria-label="Demander le CV de Bastien Blochet">
-            <span id="bg-mon-cv" aria-hidden="true">
-              <img class="vector-svg" src="{{ "images/figma/bg-mon-cv.svg" | relURL }}" alt="">
-            </span>
-            <span id="label-mon-cv">{{ index $text "label-mon-cv" }}</span>
-          </a>
-        </div>
-
-        <div id="contact-moi-content">
-          <div id="contact-moi-gauche">
-            <p id="contact-moi-nom">{{ index $text "contact-moi-nom" }}</p>
-            <p id="contact-moi-role">
-              <span class="contact-role-line contact-role-line-primary">{{ index $contactRole 0 }}</span>
-              <span class="contact-role-line contact-role-line-secondary">{{ index $contactRole 1 }}</span>
-              <span class="contact-role-line contact-role-line-secondary">{{ index $contactRole 2 }}</span>
-            </p>
-            <p id="contact-moi-paragraph-1">{{ index $text "contact-moi-paragraph-1" }}</p>
-          </div>
-
-          <div id="contact-moi-droite">
-            <p id="contact-moi-paragraph-2">{{ index $text "contact-moi-paragraph-2" }}</p>
-            <p id="contact-moi-expertise">{{ index $text "contact-moi-expertise" }}</p>
-            <p id="contact-moi-paragraph-3">{{ index $text "contact-moi-paragraph-3" }}</p>
-          </div>
-        </div>
-      </div>
-
-      <section id="contact-demandes">
-        <aside id="logo-contact">
-          <div id="fond-logo-contact" aria-hidden="true">
-            <img class="vector-svg" src="{{ "images/figma/logo-contact.svg" | relURL }}" alt="">
-          </div>
-          <p id="label-contact">{{ index $text "label-contact" }}</p>
-        </aside>
-
-        <form id="contact-formulaire" class="contact-form" aria-label="Formulaire de contact" novalidate>
-          <div id="bg-formulaire" aria-hidden="true"></div>
-
-          <div id="input-nom-prenom" class="field-shell">
-            <div id="zone-nom-prenom" aria-hidden="true"></div>
-            <label id="libelle-nom-prenom" class="sr-only" for="contact-name">{{ index $text "libelle-nom-prenom" }}</label>
-            <input id="contact-name" class="field-input" name="name" type="text" autocomplete="name" placeholder="{{ index $text "libelle-nom-prenom" }}">
-          </div>
-
-          <div id="input-societe" class="field-shell">
-            <div id="zone-societe" aria-hidden="true"></div>
-            <label id="libelle-societe" class="sr-only" for="contact-company">{{ index $text "libelle-societe" }}</label>
-            <input id="contact-company" class="field-input" name="company" type="text" autocomplete="organization" placeholder="{{ index $text "libelle-societe" }}">
-          </div>
-
-          <div id="ligne-contact">
-            <div id="input-telephone" class="field-shell">
-              <div id="zone-telephone" aria-hidden="true"></div>
-              <label id="libelle-telephone" class="sr-only" for="contact-phone">{{ index $text "libelle-telephone" }}</label>
-              <input id="contact-phone" class="field-input" name="phone" type="tel" autocomplete="tel" placeholder="{{ index $text "libelle-telephone" }}">
-            </div>
-
-            <div id="input-mail" class="field-shell">
-              <div id="zone-mail" aria-hidden="true"></div>
-              <label id="libelle-email" class="sr-only" for="contact-email">{{ index $text "libelle-email" }}</label>
-              <input id="contact-email" class="field-input" name="email" type="email" autocomplete="email" placeholder="{{ index $text "libelle-email" }}">
-            </div>
-          </div>
-
-          <div id="input-demande" class="field-shell">
-            <div id="zone-demande" aria-hidden="true"></div>
-            <label id="libelle-demande" class="sr-only" for="contact-subject">{{ index $text "libelle-demande" }}</label>
-            <input id="contact-subject" class="field-input" name="subject" type="text" placeholder="{{ index $text "libelle-demande" }}">
-          </div>
-
-          <div id="input-message" class="field-shell">
-            <div id="zone-msg" aria-hidden="true"></div>
-            <label id="libelle-message" class="sr-only" for="contact-message">{{ index $text "libelle-message" }}</label>
-            <textarea id="contact-message" class="field-input field-textarea" name="message" placeholder="{{ index $text "libelle-message" }}"></textarea>
-          </div>
-
-          <button class="sr-only" type="submit">Envoyer</button>
-        </form>
-      </section>
-    </section>
-
-    <footer id="footer">
-      <div id="footer-bg" aria-hidden="true"></div>
-      <p id="footer-text">{{ index $text "footer-text" }}</p>
-    </footer>
-  </main>
-{{ end }}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{- $page := hugo.Data.page -}}
+    <title>{{ $page.page.title }}</title>
+    {{- $stylesheet := resources.Get "css/main.css" -}}
+    {{- with $stylesheet -}}
+    {{- $compiled := . | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $compiled.RelPermalink | strings.TrimPrefix "/" }}">
+    {{- end -}}
+  </head>
+    <body class="page page--{{ $page.page.slug }}">
+      {{- range $page.sections -}}
+        {{- if or (eq .tag "header") (eq .tag "nav") -}}
+          {{- partial "section.html" . | safeHTML -}}
+        {{- end -}}
+      {{- end -}}
+    <main class="page-main">
+      {{- range $page.sections -}}
+        {{- if and (ne .tag "header") (ne .tag "nav") (ne .tag "footer") -}}
+          {{- partial "section.html" . | safeHTML -}}
+        {{- end -}}
+      {{- end -}}
+    </main>
+    {{- range $page.sections -}}
+      {{- if eq .tag "footer" -}}
+        {{- partial "section.html" . | safeHTML -}}
+      {{- end -}}
+    {{- end -}}
+  </body>
+</html>

@@ -1,4 +1,0 @@
-{{- $lines := split .value "\n" -}}
-{{- range $index, $line := $lines -}}
-  {{- if gt $index 0 -}}<br>{{- end -}}{{ $line }}
-{{- end -}}
