@@ -387,7 +387,7 @@ a {
   width: 549.00px;
   white-space: normal;
   z-index: 413;
-  height: 129.00px;
+  height: 162.00px;
   overflow: hidden;
   font-family: "Inter", sans-serif;
   font-size: 61.0px;
@@ -522,18 +522,18 @@ a {
 }
 
 .text-label-idees {
-  left: 234.29px;
+  left: 227.00px;
   top: 1357.83px;
-  width: 224.00px;
+  width: 238.00px;
   white-space: nowrap;
   z-index: 401;
-  height: 24.00px;
+  height: 50.00px;
   overflow: hidden;
   font-family: "Inter", sans-serif;
   font-size: 48.0px;
   font-weight: 400;
   font-style: normal;
-  line-height: 24.0px;
+  line-height: 50.00px;
   letter-spacing: 0.48px;
   text-align: center;
   color: rgb(255 255 255);
@@ -556,18 +556,18 @@ a {
 }
 
 .text-label-expertise {
-  left: 651.33px;
+  left: 651.00px;
   top: 1357.83px;
   width: 347.00px;
   white-space: nowrap;
   z-index: 404;
-  height: 24.00px;
+  height: 50.00px;
   overflow: hidden;
   font-family: "Inter", sans-serif;
   font-size: 48.0px;
   font-weight: 400;
   font-style: normal;
-  line-height: 24.0px;
+  line-height: 50.00px;
   letter-spacing: 0.48px;
   text-align: center;
   color: rgb(255 255 255);
@@ -590,18 +590,18 @@ a {
 }
 
 .text-label-aventure {
-  left: 1186.94px;
+  left: 1187.00px;
   top: 1357.83px;
   width: 347.00px;
   white-space: nowrap;
   z-index: 407;
-  height: 24.00px;
+  height: 50.00px;
   overflow: hidden;
   font-family: "Inter", sans-serif;
   font-size: 48.0px;
   font-weight: 400;
   font-style: normal;
-  line-height: 24.0px;
+  line-height: 50.00px;
   letter-spacing: 0.48px;
   text-align: center;
   color: rgb(255 255 255);
@@ -661,17 +661,17 @@ a {
 
 .text-le-labo {
   left: 401.00px;
-  top: 803.83px;
+  top: 782.83px;
   width: 142.00px;
   white-space: nowrap;
   z-index: 412;
-  height: 24.00px;
+  height: 66.00px;
   overflow: hidden;
   font-family: "Inter", sans-serif;
   font-size: 39.0px;
   font-weight: 400;
   font-style: normal;
-  line-height: 24.0px;
+  line-height: 66.00px;
   letter-spacing: -0.8775px;
   text-align: center;
   color: rgb(255 255 255);
@@ -986,18 +986,18 @@ a {
 }
 
 .text-contact-moi-nom {
-  left: 256.95px;
+  left: 257.00px;
   top: 1054.00px;
-  width: 767.00px;
+  width: 742.00px;
   white-space: nowrap;
   z-index: 419;
-  height: 60.00px;
+  height: 117.00px;
   overflow: hidden;
   font-family: "Inter", sans-serif;
   font-size: 97.0px;
   font-weight: 400;
   font-style: normal;
-  line-height: 60.0px;
+  line-height: 117.00px;
   letter-spacing: 1.94px;
   text-align: left;
   color: rgb(0 28 89);
@@ -1066,18 +1066,18 @@ a {
 }
 
 .text-label-mon-cv {
-  left: 970.95px;
-  top: 834.00px;
+  left: 971.00px;
+  top: 819.00px;
   width: 166.00px;
-  white-space: normal;
+  white-space: nowrap;
   z-index: 424;
-  height: 45.00px;
+  height: 65.00px;
   overflow: hidden;
   font-family: "Inter", sans-serif;
   font-size: 38.0px;
   font-weight: 400;
   font-style: normal;
-  line-height: 24.0px;
+  line-height: 65.00px;
   letter-spacing: -0.38px;
   text-align: left;
   color: rgb(255 255 255);

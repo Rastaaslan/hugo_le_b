@@ -156,7 +156,7 @@
             "x": 803.0,
             "y": 1112.0,
             "width": 549.0,
-            "height": 129.0
+            "height": 162.0
           },
           "render_bounds": {
             "x": 825.4832382202148,
@@ -706,7 +706,7 @@
           "format": "png",
           "render_mode": "composite",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/hero-image-9-1154.png",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/hero-image-9-1154.png",
           "local_path": "images/hero-image-9-1154.png",
           "public_path": "images/hero-image-9-1154.png",
           "purpose": "content",
@@ -735,7 +735,7 @@
           "format": "png",
           "render_mode": "composite",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/intro-accompagnement-foreground-38-103.png",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/intro-accompagnement-foreground-38-103.png",
           "local_path": "images/intro-accompagnement-foreground-38-103.png",
           "public_path": "images/intro-accompagnement-foreground-38-103.png",
           "purpose": "foreground",
@@ -764,7 +764,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/background-3-6.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/background-3-6.svg",
           "local_path": "images/background-3-6.svg",
           "public_path": "images/background-3-6.svg",
           "purpose": "background",
@@ -793,7 +793,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-bleu-1-3-146.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-bleu-1-3-146.svg",
           "local_path": "images/icone-bleu-1-3-146.svg",
           "public_path": "images/icone-bleu-1-3-146.svg",
           "purpose": "icon",
@@ -822,7 +822,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-2-3-148.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-2-3-148.svg",
           "local_path": "images/icone-orange-2-3-148.svg",
           "public_path": "images/icone-orange-2-3-148.svg",
           "purpose": "icon",
@@ -851,7 +851,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-1-3-154.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-1-3-154.svg",
           "local_path": "images/icone-orange-1-3-154.svg",
           "public_path": "images/icone-orange-1-3-154.svg",
           "purpose": "icon",
@@ -880,7 +880,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-bleu-2-3-215.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-bleu-2-3-215.svg",
           "local_path": "images/icone-bleu-2-3-215.svg",
           "public_path": "images/icone-bleu-2-3-215.svg",
           "purpose": "icon",
@@ -909,7 +909,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-3-3-172.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-3-3-172.svg",
           "local_path": "images/icone-orange-3-3-172.svg",
           "public_path": "images/icone-orange-3-3-172.svg",
           "purpose": "icon",
@@ -938,7 +938,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/accompagnement-cta-bg-3-7.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/accompagnement-cta-bg-3-7.svg",
           "local_path": "images/accompagnement-cta-bg-3-7.svg",
           "public_path": "images/accompagnement-cta-bg-3-7.svg",
           "purpose": "background",
@@ -967,7 +967,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/mongolfiere-6-1081.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/mongolfiere-6-1081.svg",
           "local_path": "images/mongolfiere-6-1081.svg",
           "public_path": "images/mongolfiere-6-1081.svg",
           "purpose": "icon",
@@ -996,7 +996,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/motif-droite-6-1082.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/motif-droite-6-1082.svg",
           "local_path": "images/motif-droite-6-1082.svg",
           "public_path": "images/motif-droite-6-1082.svg",
           "purpose": "icon",
@@ -1027,7 +1027,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-tous-nos-accomp-3-962.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-tous-nos-accomp-3-962.svg",
           "local_path": "images/fond-tous-nos-accomp-3-962.svg",
           "public_path": "images/fond-tous-nos-accomp-3-962.svg",
           "purpose": "decorative",
@@ -1072,7 +1072,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/accompagnement-cta-bg-3-7.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/accompagnement-cta-bg-3-7.svg",
             "local_path": "images/accompagnement-cta-bg-3-7.svg",
             "public_path": "images/accompagnement-cta-bg-3-7.svg",
             "purpose": "background",
@@ -1116,7 +1116,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/mongolfiere-6-1081.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/mongolfiere-6-1081.svg",
             "local_path": "images/mongolfiere-6-1081.svg",
             "public_path": "images/mongolfiere-6-1081.svg",
             "purpose": "icon",
@@ -1160,7 +1160,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/motif-droite-6-1082.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/motif-droite-6-1082.svg",
             "local_path": "images/motif-droite-6-1082.svg",
             "public_path": "images/motif-droite-6-1082.svg",
             "purpose": "icon",
@@ -1351,7 +1351,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-tous-nos-accomp-3-962.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-tous-nos-accomp-3-962.svg",
             "local_path": "images/fond-tous-nos-accomp-3-962.svg",
             "public_path": "images/fond-tous-nos-accomp-3-962.svg",
             "purpose": "decorative",
@@ -1876,7 +1876,7 @@
             "x": 803.0,
             "y": 1112.0,
             "width": 549.0,
-            "height": 129.0
+            "height": 162.0
           },
           "attributes": {},
           "children": [],
@@ -1894,7 +1894,7 @@
               "x": 803.0,
               "y": 1112.0,
               "width": 549.0,
-              "height": 129.0
+              "height": 162.0
             },
             "render_bounds": {
               "x": 825.4832382202148,
@@ -1953,7 +1953,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/background-3-6.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/background-3-6.svg",
             "local_path": "images/background-3-6.svg",
             "public_path": "images/background-3-6.svg",
             "purpose": "background",
@@ -1997,7 +1997,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-bleu-2-3-215.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-bleu-2-3-215.svg",
             "local_path": "images/icone-bleu-2-3-215.svg",
             "public_path": "images/icone-bleu-2-3-215.svg",
             "purpose": "icon",
@@ -2041,7 +2041,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-bleu-1-3-146.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-bleu-1-3-146.svg",
             "local_path": "images/icone-bleu-1-3-146.svg",
             "public_path": "images/icone-bleu-1-3-146.svg",
             "purpose": "icon",
@@ -2085,7 +2085,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-3-3-172.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-3-3-172.svg",
             "local_path": "images/icone-orange-3-3-172.svg",
             "public_path": "images/icone-orange-3-3-172.svg",
             "purpose": "icon",
@@ -2129,7 +2129,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-2-3-148.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-2-3-148.svg",
             "local_path": "images/icone-orange-2-3-148.svg",
             "public_path": "images/icone-orange-2-3-148.svg",
             "purpose": "icon",
@@ -2173,7 +2173,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-1-3-154.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-1-3-154.svg",
             "local_path": "images/icone-orange-1-3-154.svg",
             "public_path": "images/icone-orange-1-3-154.svg",
             "purpose": "icon",
@@ -2217,7 +2217,7 @@
             "format": "png",
             "render_mode": "composite",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/hero-image-9-1154.png",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/hero-image-9-1154.png",
             "local_path": "images/hero-image-9-1154.png",
             "public_path": "images/hero-image-9-1154.png",
             "purpose": "content",
@@ -2393,7 +2393,7 @@
             "format": "png",
             "render_mode": "composite",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/intro-accompagnement-foreground-38-103.png",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/intro-accompagnement-foreground-38-103.png",
             "local_path": "images/intro-accompagnement-foreground-38-103.png",
             "public_path": "images/intro-accompagnement-foreground-38-103.png",
             "purpose": "foreground",
@@ -2657,9 +2657,9 @@
           "class_name": "text-le-labo",
           "bounds": {
             "x": 401.0,
-            "y": 803.830078125,
+            "y": 782.830078125,
             "width": 142.0,
-            "height": 24.0
+            "height": 66.0
           },
           "render_bounds": {
             "x": 404.5613098144531,
@@ -2676,7 +2676,7 @@
             "letterSpacing": -0.8775,
             "lineHeight": 24.0,
             "textAlignHorizontal": "CENTER",
-            "textAlignVertical": "TOP",
+            "textAlignVertical": "CENTER",
             "fills": [
               {
                 "blendMode": "NORMAL",
@@ -2692,7 +2692,7 @@
           },
           "style_css": "font-family: \"Inter\", sans-serif; font-size: 39.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: -0.8775px; text-align: center; color: rgb(255 255 255);",
           "hard_breaks": false,
-          "nowrap": true,
+          "nowrap": false,
           "preserve_spaces": false,
           "segments": []
         },
@@ -2707,14 +2707,14 @@
           "section_id": "6:1103",
           "class_name": "text-label-idees",
           "bounds": {
-            "x": 234.2900390625,
+            "x": 227.0,
             "y": 1357.830078125,
-            "width": 224.0,
-            "height": 24.0
+            "width": 238.0,
+            "height": 50.0
           },
           "render_bounds": {
-            "x": 235.9097900390625,
-            "y": 1349.1937103271484,
+            "x": 235.6197509765625,
+            "y": 1362.1937103271484,
             "width": 219.61416625976562,
             "height": 38.18182373046875
           },
@@ -2727,7 +2727,7 @@
             "letterSpacing": 0.48,
             "lineHeight": 24.0,
             "textAlignHorizontal": "CENTER",
-            "textAlignVertical": "TOP",
+            "textAlignVertical": "CENTER",
             "fills": [
               {
                 "blendMode": "NORMAL",
@@ -2743,7 +2743,7 @@
           },
           "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
           "hard_breaks": false,
-          "nowrap": true,
+          "nowrap": false,
           "preserve_spaces": false,
           "segments": []
         },
@@ -2758,14 +2758,14 @@
           "section_id": "6:1103",
           "class_name": "text-label-expertise",
           "bounds": {
-            "x": 651.333251953125,
+            "x": 651.0,
             "y": 1357.830078125,
             "width": 347.0,
-            "height": 24.0
+            "height": 50.0
           },
           "render_bounds": {
-            "x": 655.8780364990234,
-            "y": 1350.830078125,
+            "x": 655.5447845458984,
+            "y": 1363.830078125,
             "width": 339.7641296386719,
             "height": 45.81817626953125
           },
@@ -2778,7 +2778,7 @@
             "letterSpacing": 0.48,
             "lineHeight": 24.0,
             "textAlignHorizontal": "CENTER",
-            "textAlignVertical": "TOP",
+            "textAlignVertical": "CENTER",
             "fills": [
               {
                 "blendMode": "NORMAL",
@@ -2794,7 +2794,7 @@
           },
           "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
           "hard_breaks": false,
-          "nowrap": true,
+          "nowrap": false,
           "preserve_spaces": false,
           "segments": []
         },
@@ -2809,14 +2809,14 @@
           "section_id": "6:1103",
           "class_name": "text-label-aventure",
           "bounds": {
-            "x": 1186.9365234375,
+            "x": 1187.0,
             "y": 1357.830078125,
             "width": 347.0,
-            "height": 24.0
+            "height": 50.0
           },
           "render_bounds": {
-            "x": 1192.0672302246094,
-            "y": 1351.9209899902344,
+            "x": 1192.1307067871094,
+            "y": 1364.9209899902344,
             "width": 338.5283508300781,
             "height": 35.52272033691406
           },
@@ -2829,7 +2829,7 @@
             "letterSpacing": 0.48,
             "lineHeight": 24.0,
             "textAlignHorizontal": "CENTER",
-            "textAlignVertical": "TOP",
+            "textAlignVertical": "CENTER",
             "fills": [
               {
                 "blendMode": "NORMAL",
@@ -2845,7 +2845,7 @@
           },
           "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
           "hard_breaks": false,
-          "nowrap": true,
+          "nowrap": false,
           "preserve_spaces": false,
           "segments": []
         }
@@ -2858,7 +2858,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/logo-embedded-6-1102.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/logo-embedded-6-1102.svg",
           "local_path": "images/logo-embedded-6-1102.svg",
           "public_path": "images/logo-embedded-6-1102.svg",
           "purpose": "icon",
@@ -2887,7 +2887,7 @@
           "format": "png",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/cir-3-910.png",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/cir-3-910.png",
           "local_path": "images/cir-3-910.png",
           "public_path": "images/cir-3-910.png",
           "purpose": "icon",
@@ -2916,7 +2916,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/embedded-bandeau-bg-3-5.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/embedded-bandeau-bg-3-5.svg",
           "local_path": "images/embedded-bandeau-bg-3-5.svg",
           "public_path": "images/embedded-bandeau-bg-3-5.svg",
           "purpose": "background",
@@ -2945,7 +2945,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-aventure-7-1108.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-aventure-7-1108.svg",
           "local_path": "images/icone-aventure-7-1108.svg",
           "public_path": "images/icone-aventure-7-1108.svg",
           "purpose": "icon",
@@ -2974,7 +2974,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-idees-7-1109.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-idees-7-1109.svg",
           "local_path": "images/icone-idees-7-1109.svg",
           "public_path": "images/icone-idees-7-1109.svg",
           "purpose": "icon",
@@ -3003,7 +3003,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-expertise-7-1110.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-expertise-7-1110.svg",
           "local_path": "images/icone-expertise-7-1110.svg",
           "public_path": "images/icone-expertise-7-1110.svg",
           "purpose": "icon",
@@ -3032,7 +3032,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bandeau-plus-3-263.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bandeau-plus-3-263.svg",
           "local_path": "images/bandeau-plus-3-263.svg",
           "public_path": "images/bandeau-plus-3-263.svg",
           "purpose": "icon",
@@ -3061,7 +3061,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bandeau-egal-3-264.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bandeau-egal-3-264.svg",
           "local_path": "images/bandeau-egal-3-264.svg",
           "public_path": "images/bandeau-egal-3-264.svg",
           "purpose": "icon",
@@ -3092,7 +3092,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-le-labo-3-912.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-le-labo-3-912.svg",
           "local_path": "images/fond-le-labo-3-912.svg",
           "public_path": "images/fond-le-labo-3-912.svg",
           "purpose": "decorative",
@@ -3137,7 +3137,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/embedded-bandeau-bg-3-5.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/embedded-bandeau-bg-3-5.svg",
             "local_path": "images/embedded-bandeau-bg-3-5.svg",
             "public_path": "images/embedded-bandeau-bg-3-5.svg",
             "purpose": "background",
@@ -3167,10 +3167,10 @@
           "role": "label",
           "class_name": "node-id-9-1123",
           "bounds": {
-            "x": 234.2900390625,
+            "x": 227.0,
             "y": 1357.830078125,
-            "width": 224.0,
-            "height": 24.0
+            "width": 238.0,
+            "height": 50.0
           },
           "attributes": {},
           "children": [],
@@ -3185,14 +3185,14 @@
             "section_id": "6:1103",
             "class_name": "text-label-idees",
             "bounds": {
-              "x": 234.2900390625,
+              "x": 227.0,
               "y": 1357.830078125,
-              "width": 224.0,
-              "height": 24.0
+              "width": 238.0,
+              "height": 50.0
             },
             "render_bounds": {
-              "x": 235.9097900390625,
-              "y": 1349.1937103271484,
+              "x": 235.6197509765625,
+              "y": 1362.1937103271484,
               "width": 219.61416625976562,
               "height": 38.18182373046875
             },
@@ -3205,7 +3205,7 @@
               "letterSpacing": 0.48,
               "lineHeight": 24.0,
               "textAlignHorizontal": "CENTER",
-              "textAlignVertical": "TOP",
+              "textAlignVertical": "CENTER",
               "fills": [
                 {
                   "blendMode": "NORMAL",
@@ -3221,7 +3221,7 @@
             },
             "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
             "hard_breaks": false,
-            "nowrap": true,
+            "nowrap": false,
             "preserve_spaces": false,
             "segments": []
           }
@@ -3247,7 +3247,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-idees-7-1109.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-idees-7-1109.svg",
             "local_path": "images/icone-idees-7-1109.svg",
             "public_path": "images/icone-idees-7-1109.svg",
             "purpose": "icon",
@@ -3291,7 +3291,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bandeau-plus-3-263.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bandeau-plus-3-263.svg",
             "local_path": "images/bandeau-plus-3-263.svg",
             "public_path": "images/bandeau-plus-3-263.svg",
             "purpose": "icon",
@@ -3321,10 +3321,10 @@
           "role": "label",
           "class_name": "node-id-9-1125",
           "bounds": {
-            "x": 651.333251953125,
+            "x": 651.0,
             "y": 1357.830078125,
             "width": 347.0,
-            "height": 24.0
+            "height": 50.0
           },
           "attributes": {},
           "children": [],
@@ -3339,14 +3339,14 @@
             "section_id": "6:1103",
             "class_name": "text-label-expertise",
             "bounds": {
-              "x": 651.333251953125,
+              "x": 651.0,
               "y": 1357.830078125,
               "width": 347.0,
-              "height": 24.0
+              "height": 50.0
             },
             "render_bounds": {
-              "x": 655.8780364990234,
-              "y": 1350.830078125,
+              "x": 655.5447845458984,
+              "y": 1363.830078125,
               "width": 339.7641296386719,
               "height": 45.81817626953125
             },
@@ -3359,7 +3359,7 @@
               "letterSpacing": 0.48,
               "lineHeight": 24.0,
               "textAlignHorizontal": "CENTER",
-              "textAlignVertical": "TOP",
+              "textAlignVertical": "CENTER",
               "fills": [
                 {
                   "blendMode": "NORMAL",
@@ -3375,7 +3375,7 @@
             },
             "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
             "hard_breaks": false,
-            "nowrap": true,
+            "nowrap": false,
             "preserve_spaces": false,
             "segments": []
           }
@@ -3401,7 +3401,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-expertise-7-1110.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-expertise-7-1110.svg",
             "local_path": "images/icone-expertise-7-1110.svg",
             "public_path": "images/icone-expertise-7-1110.svg",
             "purpose": "icon",
@@ -3445,7 +3445,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bandeau-egal-3-264.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bandeau-egal-3-264.svg",
             "local_path": "images/bandeau-egal-3-264.svg",
             "public_path": "images/bandeau-egal-3-264.svg",
             "purpose": "icon",
@@ -3475,10 +3475,10 @@
           "role": "label",
           "class_name": "node-id-9-1122",
           "bounds": {
-            "x": 1186.9365234375,
+            "x": 1187.0,
             "y": 1357.830078125,
             "width": 347.0,
-            "height": 24.0
+            "height": 50.0
           },
           "attributes": {},
           "children": [],
@@ -3493,14 +3493,14 @@
             "section_id": "6:1103",
             "class_name": "text-label-aventure",
             "bounds": {
-              "x": 1186.9365234375,
+              "x": 1187.0,
               "y": 1357.830078125,
               "width": 347.0,
-              "height": 24.0
+              "height": 50.0
             },
             "render_bounds": {
-              "x": 1192.0672302246094,
-              "y": 1351.9209899902344,
+              "x": 1192.1307067871094,
+              "y": 1364.9209899902344,
               "width": 338.5283508300781,
               "height": 35.52272033691406
             },
@@ -3513,7 +3513,7 @@
               "letterSpacing": 0.48,
               "lineHeight": 24.0,
               "textAlignHorizontal": "CENTER",
-              "textAlignVertical": "TOP",
+              "textAlignVertical": "CENTER",
               "fills": [
                 {
                   "blendMode": "NORMAL",
@@ -3529,7 +3529,7 @@
             },
             "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
             "hard_breaks": false,
-            "nowrap": true,
+            "nowrap": false,
             "preserve_spaces": false,
             "segments": []
           }
@@ -3555,7 +3555,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-aventure-7-1108.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-aventure-7-1108.svg",
             "local_path": "images/icone-aventure-7-1108.svg",
             "public_path": "images/icone-aventure-7-1108.svg",
             "purpose": "icon",
@@ -3731,7 +3731,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-le-labo-3-912.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-le-labo-3-912.svg",
             "local_path": "images/fond-le-labo-3-912.svg",
             "public_path": "images/fond-le-labo-3-912.svg",
             "purpose": "decorative",
@@ -3762,9 +3762,9 @@
           "class_name": "node-id-7-1111",
           "bounds": {
             "x": 401.0,
-            "y": 803.830078125,
+            "y": 782.830078125,
             "width": 142.0,
-            "height": 24.0
+            "height": 66.0
           },
           "attributes": {},
           "children": [],
@@ -3780,9 +3780,9 @@
             "class_name": "text-le-labo",
             "bounds": {
               "x": 401.0,
-              "y": 803.830078125,
+              "y": 782.830078125,
               "width": 142.0,
-              "height": 24.0
+              "height": 66.0
             },
             "render_bounds": {
               "x": 404.5613098144531,
@@ -3799,7 +3799,7 @@
               "letterSpacing": -0.8775,
               "lineHeight": 24.0,
               "textAlignHorizontal": "CENTER",
-              "textAlignVertical": "TOP",
+              "textAlignVertical": "CENTER",
               "fills": [
                 {
                   "blendMode": "NORMAL",
@@ -3815,7 +3815,7 @@
             },
             "style_css": "font-family: \"Inter\", sans-serif; font-size: 39.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: -0.8775px; text-align: center; color: rgb(255 255 255);",
             "hard_breaks": false,
-            "nowrap": true,
+            "nowrap": false,
             "preserve_spaces": false,
             "segments": []
           }
@@ -3841,7 +3841,7 @@
             "format": "png",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/cir-3-910.png",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/cir-3-910.png",
             "local_path": "images/cir-3-910.png",
             "public_path": "images/cir-3-910.png",
             "purpose": "icon",
@@ -4017,7 +4017,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/logo-embedded-6-1102.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/logo-embedded-6-1102.svg",
             "local_path": "images/logo-embedded-6-1102.svg",
             "public_path": "images/logo-embedded-6-1102.svg",
             "purpose": "icon",
@@ -4149,14 +4149,14 @@
           "section_id": "9:1183",
           "class_name": "text-label-mon-cv",
           "bounds": {
-            "x": 970.9500732421875,
-            "y": 834.0,
+            "x": 971.0,
+            "y": 819.0,
             "width": 166.0,
-            "height": 45.0
+            "height": 65.0
           },
           "render_bounds": {
-            "x": 974.2966613769531,
-            "y": 831.98583984375,
+            "x": 974.3465881347656,
+            "y": 836.98583984375,
             "width": 146.60281372070312,
             "height": 28.4459228515625
           },
@@ -4169,7 +4169,7 @@
             "letterSpacing": -0.38,
             "lineHeight": 24.0,
             "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
+            "textAlignVertical": "CENTER",
             "fills": [
               {
                 "blendMode": "NORMAL",
@@ -4200,14 +4200,14 @@
           "section_id": "9:1183",
           "class_name": "text-contact-moi-nom",
           "bounds": {
-            "x": 256.9500732421875,
+            "x": 257.0,
             "y": 1054.0,
-            "width": 767.0,
-            "height": 60.0
+            "width": 742.0,
+            "height": 117.0
           },
           "render_bounds": {
-            "x": 265.49267578125,
-            "y": 1046.25,
+            "x": 265.5426025390625,
+            "y": 1075.25,
             "width": 729.1268920898438,
             "height": 73.9901123046875
           },
@@ -4220,7 +4220,7 @@
             "letterSpacing": 1.94,
             "lineHeight": 60.0,
             "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
+            "textAlignVertical": "CENTER",
             "fills": [
               {
                 "blendMode": "NORMAL",
@@ -4236,7 +4236,7 @@
           },
           "style_css": "font-family: \"Inter\", sans-serif; font-size: 97.0px; font-weight: 400; font-style: normal; line-height: 60.0px; letter-spacing: 1.94px; text-align: left; color: rgb(0 28 89);",
           "hard_breaks": false,
-          "nowrap": true,
+          "nowrap": false,
           "preserve_spaces": false,
           "segments": []
         },
@@ -4883,7 +4883,7 @@
           "format": "png",
           "render_mode": "composite",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-moi-portrait-9-1218.png",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-moi-portrait-9-1218.png",
           "local_path": "images/contact-moi-portrait-9-1218.png",
           "public_path": "images/contact-moi-portrait-9-1218.png",
           "purpose": "content",
@@ -4912,7 +4912,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bg-mon-cv-3-916.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bg-mon-cv-3-916.svg",
           "local_path": "images/bg-mon-cv-3-916.svg",
           "public_path": "images/bg-mon-cv-3-916.svg",
           "purpose": "background",
@@ -4941,7 +4941,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-decor-bg-9-1191.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-decor-bg-9-1191.svg",
           "local_path": "images/contact-decor-bg-9-1191.svg",
           "public_path": "images/contact-decor-bg-9-1191.svg",
           "purpose": "background",
@@ -4970,7 +4970,7 @@
           "format": "png",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-demandes-bg-20-1301.png",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-demandes-bg-20-1301.png",
           "local_path": "images/contact-demandes-bg-20-1301.png",
           "public_path": "images/contact-demandes-bg-20-1301.png",
           "purpose": "background",
@@ -4999,7 +4999,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bg-formulaire-3-345.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bg-formulaire-3-345.svg",
           "local_path": "images/bg-formulaire-3-345.svg",
           "public_path": "images/bg-formulaire-3-345.svg",
           "purpose": "background",
@@ -5028,7 +5028,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-logo-contact-15-1299.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-logo-contact-15-1299.svg",
           "local_path": "images/fond-logo-contact-15-1299.svg",
           "public_path": "images/fond-logo-contact-15-1299.svg",
           "purpose": "icon",
@@ -5057,7 +5057,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-telephone-3-350.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-telephone-3-350.svg",
           "local_path": "images/zone-telephone-3-350.svg",
           "public_path": "images/zone-telephone-3-350.svg",
           "purpose": "icon",
@@ -5086,7 +5086,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-mail-3-351.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-mail-3-351.svg",
           "local_path": "images/zone-mail-3-351.svg",
           "public_path": "images/zone-mail-3-351.svg",
           "purpose": "icon",
@@ -5117,7 +5117,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-nom-prenom-3-346.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-nom-prenom-3-346.svg",
           "local_path": "images/zone-nom-prenom-3-346.svg",
           "public_path": "images/zone-nom-prenom-3-346.svg",
           "purpose": "decorative",
@@ -5146,7 +5146,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-societe-3-347.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-societe-3-347.svg",
           "local_path": "images/zone-societe-3-347.svg",
           "public_path": "images/zone-societe-3-347.svg",
           "purpose": "decorative",
@@ -5175,7 +5175,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-demande-3-348.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-demande-3-348.svg",
           "local_path": "images/zone-demande-3-348.svg",
           "public_path": "images/zone-demande-3-348.svg",
           "purpose": "decorative",
@@ -5204,7 +5204,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-msg-3-349.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-msg-3-349.svg",
           "local_path": "images/zone-msg-3-349.svg",
           "public_path": "images/zone-msg-3-349.svg",
           "purpose": "decorative",
@@ -5249,7 +5249,7 @@
             "format": "png",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-demandes-bg-20-1301.png",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-demandes-bg-20-1301.png",
             "local_path": "images/contact-demandes-bg-20-1301.png",
             "public_path": "images/contact-demandes-bg-20-1301.png",
             "purpose": "background",
@@ -5293,7 +5293,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-decor-bg-9-1191.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-decor-bg-9-1191.svg",
             "local_path": "images/contact-decor-bg-9-1191.svg",
             "public_path": "images/contact-decor-bg-9-1191.svg",
             "purpose": "background",
@@ -5337,7 +5337,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bg-formulaire-3-345.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bg-formulaire-3-345.svg",
             "local_path": "images/bg-formulaire-3-345.svg",
             "public_path": "images/bg-formulaire-3-345.svg",
             "purpose": "background",
@@ -5381,7 +5381,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-msg-3-349.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-msg-3-349.svg",
             "local_path": "images/zone-msg-3-349.svg",
             "public_path": "images/zone-msg-3-349.svg",
             "purpose": "decorative",
@@ -5491,7 +5491,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-demande-3-348.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-demande-3-348.svg",
             "local_path": "images/zone-demande-3-348.svg",
             "public_path": "images/zone-demande-3-348.svg",
             "purpose": "decorative",
@@ -5601,7 +5601,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-telephone-3-350.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-telephone-3-350.svg",
             "local_path": "images/zone-telephone-3-350.svg",
             "public_path": "images/zone-telephone-3-350.svg",
             "purpose": "icon",
@@ -5711,7 +5711,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-mail-3-351.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-mail-3-351.svg",
             "local_path": "images/zone-mail-3-351.svg",
             "public_path": "images/zone-mail-3-351.svg",
             "purpose": "icon",
@@ -5821,7 +5821,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-societe-3-347.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-societe-3-347.svg",
             "local_path": "images/zone-societe-3-347.svg",
             "public_path": "images/zone-societe-3-347.svg",
             "purpose": "decorative",
@@ -5931,7 +5931,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-nom-prenom-3-346.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-nom-prenom-3-346.svg",
             "local_path": "images/zone-nom-prenom-3-346.svg",
             "public_path": "images/zone-nom-prenom-3-346.svg",
             "purpose": "decorative",
@@ -6041,7 +6041,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-logo-contact-15-1299.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-logo-contact-15-1299.svg",
             "local_path": "images/fond-logo-contact-15-1299.svg",
             "public_path": "images/fond-logo-contact-15-1299.svg",
             "purpose": "icon",
@@ -6291,10 +6291,10 @@
           "role": "hero-title",
           "class_name": "node-id-9-1204",
           "bounds": {
-            "x": 256.9500732421875,
+            "x": 257.0,
             "y": 1054.0,
-            "width": 767.0,
-            "height": 60.0
+            "width": 742.0,
+            "height": 117.0
           },
           "attributes": {},
           "children": [],
@@ -6309,14 +6309,14 @@
             "section_id": "9:1183",
             "class_name": "text-contact-moi-nom",
             "bounds": {
-              "x": 256.9500732421875,
+              "x": 257.0,
               "y": 1054.0,
-              "width": 767.0,
-              "height": 60.0
+              "width": 742.0,
+              "height": 117.0
             },
             "render_bounds": {
-              "x": 265.49267578125,
-              "y": 1046.25,
+              "x": 265.5426025390625,
+              "y": 1075.25,
               "width": 729.1268920898438,
               "height": 73.9901123046875
             },
@@ -6329,7 +6329,7 @@
               "letterSpacing": 1.94,
               "lineHeight": 60.0,
               "textAlignHorizontal": "LEFT",
-              "textAlignVertical": "TOP",
+              "textAlignVertical": "CENTER",
               "fills": [
                 {
                   "blendMode": "NORMAL",
@@ -6345,7 +6345,7 @@
             },
             "style_css": "font-family: \"Inter\", sans-serif; font-size: 97.0px; font-weight: 400; font-style: normal; line-height: 60.0px; letter-spacing: 1.94px; text-align: left; color: rgb(0 28 89);",
             "hard_breaks": false,
-            "nowrap": true,
+            "nowrap": false,
             "preserve_spaces": false,
             "segments": []
           }
@@ -6569,7 +6569,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bg-mon-cv-3-916.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bg-mon-cv-3-916.svg",
             "local_path": "images/bg-mon-cv-3-916.svg",
             "public_path": "images/bg-mon-cv-3-916.svg",
             "purpose": "background",
@@ -6599,10 +6599,10 @@
           "role": "label",
           "class_name": "node-id-9-1186",
           "bounds": {
-            "x": 970.9500732421875,
-            "y": 834.0,
+            "x": 971.0,
+            "y": 819.0,
             "width": 166.0,
-            "height": 45.0
+            "height": 65.0
           },
           "attributes": {},
           "children": [],
@@ -6617,14 +6617,14 @@
             "section_id": "9:1183",
             "class_name": "text-label-mon-cv",
             "bounds": {
-              "x": 970.9500732421875,
-              "y": 834.0,
+              "x": 971.0,
+              "y": 819.0,
               "width": 166.0,
-              "height": 45.0
+              "height": 65.0
             },
             "render_bounds": {
-              "x": 974.2966613769531,
-              "y": 831.98583984375,
+              "x": 974.3465881347656,
+              "y": 836.98583984375,
               "width": 146.60281372070312,
               "height": 28.4459228515625
             },
@@ -6637,7 +6637,7 @@
               "letterSpacing": -0.38,
               "lineHeight": 24.0,
               "textAlignHorizontal": "LEFT",
-              "textAlignVertical": "TOP",
+              "textAlignVertical": "CENTER",
               "fills": [
                 {
                   "blendMode": "NORMAL",
@@ -6767,7 +6767,7 @@
             "format": "png",
             "render_mode": "composite",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-moi-portrait-9-1218.png",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-moi-portrait-9-1218.png",
             "local_path": "images/contact-moi-portrait-9-1218.png",
             "public_path": "images/contact-moi-portrait-9-1218.png",
             "purpose": "content",
@@ -6874,7 +6874,7 @@
           "format": "svg",
           "render_mode": "image",
           "source_url": null,
-          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/footer-bg-3-75.svg",
+          "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/footer-bg-3-75.svg",
           "local_path": "images/footer-bg-3-75.svg",
           "public_path": "images/footer-bg-3-75.svg",
           "purpose": "background",
@@ -6920,7 +6920,7 @@
             "format": "svg",
             "render_mode": "image",
             "source_url": null,
-            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/footer-bg-3-75.svg",
+            "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/footer-bg-3-75.svg",
             "local_path": "images/footer-bg-3-75.svg",
             "public_path": "images/footer-bg-3-75.svg",
             "purpose": "background",
@@ -7531,7 +7531,7 @@
         "x": 803.0,
         "y": 1112.0,
         "width": 549.0,
-        "height": 129.0
+        "height": 162.0
       },
       "render_bounds": {
         "x": 825.4832382202148,
@@ -7681,14 +7681,14 @@
       "section_id": "6:1103",
       "class_name": "text-label-idees",
       "bounds": {
-        "x": 234.2900390625,
+        "x": 227.0,
         "y": 1357.830078125,
-        "width": 224.0,
-        "height": 24.0
+        "width": 238.0,
+        "height": 50.0
       },
       "render_bounds": {
-        "x": 235.9097900390625,
-        "y": 1349.1937103271484,
+        "x": 235.6197509765625,
+        "y": 1362.1937103271484,
         "width": 219.61416625976562,
         "height": 38.18182373046875
       },
@@ -7701,7 +7701,7 @@
         "letterSpacing": 0.48,
         "lineHeight": 24.0,
         "textAlignHorizontal": "CENTER",
-        "textAlignVertical": "TOP",
+        "textAlignVertical": "CENTER",
         "fills": [
           {
             "blendMode": "NORMAL",
@@ -7717,7 +7717,7 @@
       },
       "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
       "hard_breaks": false,
-      "nowrap": true,
+      "nowrap": false,
       "preserve_spaces": false,
       "segments": []
     },
@@ -7732,14 +7732,14 @@
       "section_id": "6:1103",
       "class_name": "text-label-expertise",
       "bounds": {
-        "x": 651.333251953125,
+        "x": 651.0,
         "y": 1357.830078125,
         "width": 347.0,
-        "height": 24.0
+        "height": 50.0
       },
       "render_bounds": {
-        "x": 655.8780364990234,
-        "y": 1350.830078125,
+        "x": 655.5447845458984,
+        "y": 1363.830078125,
         "width": 339.7641296386719,
         "height": 45.81817626953125
       },
@@ -7752,7 +7752,7 @@
         "letterSpacing": 0.48,
         "lineHeight": 24.0,
         "textAlignHorizontal": "CENTER",
-        "textAlignVertical": "TOP",
+        "textAlignVertical": "CENTER",
         "fills": [
           {
             "blendMode": "NORMAL",
@@ -7768,7 +7768,7 @@
       },
       "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
       "hard_breaks": false,
-      "nowrap": true,
+      "nowrap": false,
       "preserve_spaces": false,
       "segments": []
     },
@@ -7783,14 +7783,14 @@
       "section_id": "6:1103",
       "class_name": "text-label-aventure",
       "bounds": {
-        "x": 1186.9365234375,
+        "x": 1187.0,
         "y": 1357.830078125,
         "width": 347.0,
-        "height": 24.0
+        "height": 50.0
       },
       "render_bounds": {
-        "x": 1192.0672302246094,
-        "y": 1351.9209899902344,
+        "x": 1192.1307067871094,
+        "y": 1364.9209899902344,
         "width": 338.5283508300781,
         "height": 35.52272033691406
       },
@@ -7803,7 +7803,7 @@
         "letterSpacing": 0.48,
         "lineHeight": 24.0,
         "textAlignHorizontal": "CENTER",
-        "textAlignVertical": "TOP",
+        "textAlignVertical": "CENTER",
         "fills": [
           {
             "blendMode": "NORMAL",
@@ -7819,7 +7819,7 @@
       },
       "style_css": "font-family: \"Inter\", sans-serif; font-size: 48.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: 0.48px; text-align: center; color: rgb(255 255 255);",
       "hard_breaks": false,
-      "nowrap": true,
+      "nowrap": false,
       "preserve_spaces": false,
       "segments": []
     },
@@ -7937,9 +7937,9 @@
       "class_name": "text-le-labo",
       "bounds": {
         "x": 401.0,
-        "y": 803.830078125,
+        "y": 782.830078125,
         "width": 142.0,
-        "height": 24.0
+        "height": 66.0
       },
       "render_bounds": {
         "x": 404.5613098144531,
@@ -7956,7 +7956,7 @@
         "letterSpacing": -0.8775,
         "lineHeight": 24.0,
         "textAlignHorizontal": "CENTER",
-        "textAlignVertical": "TOP",
+        "textAlignVertical": "CENTER",
         "fills": [
           {
             "blendMode": "NORMAL",
@@ -7972,7 +7972,7 @@
       },
       "style_css": "font-family: \"Inter\", sans-serif; font-size: 39.0px; font-weight: 400; font-style: normal; line-height: 24.0px; letter-spacing: -0.8775px; text-align: center; color: rgb(255 255 255);",
       "hard_breaks": false,
-      "nowrap": true,
+      "nowrap": false,
       "preserve_spaces": false,
       "segments": []
     },
@@ -8570,14 +8570,14 @@
       "section_id": "9:1183",
       "class_name": "text-contact-moi-nom",
       "bounds": {
-        "x": 256.9500732421875,
+        "x": 257.0,
         "y": 1054.0,
-        "width": 767.0,
-        "height": 60.0
+        "width": 742.0,
+        "height": 117.0
       },
       "render_bounds": {
-        "x": 265.49267578125,
-        "y": 1046.25,
+        "x": 265.5426025390625,
+        "y": 1075.25,
         "width": 729.1268920898438,
         "height": 73.9901123046875
       },
@@ -8590,7 +8590,7 @@
         "letterSpacing": 1.94,
         "lineHeight": 60.0,
         "textAlignHorizontal": "LEFT",
-        "textAlignVertical": "TOP",
+        "textAlignVertical": "CENTER",
         "fills": [
           {
             "blendMode": "NORMAL",
@@ -8606,7 +8606,7 @@
       },
       "style_css": "font-family: \"Inter\", sans-serif; font-size: 97.0px; font-weight: 400; font-style: normal; line-height: 60.0px; letter-spacing: 1.94px; text-align: left; color: rgb(0 28 89);",
       "hard_breaks": false,
-      "nowrap": true,
+      "nowrap": false,
       "preserve_spaces": false,
       "segments": []
     },
@@ -8774,14 +8774,14 @@
       "section_id": "9:1183",
       "class_name": "text-label-mon-cv",
       "bounds": {
-        "x": 970.9500732421875,
-        "y": 834.0,
+        "x": 971.0,
+        "y": 819.0,
         "width": 166.0,
-        "height": 45.0
+        "height": 65.0
       },
       "render_bounds": {
-        "x": 974.2966613769531,
-        "y": 831.98583984375,
+        "x": 974.3465881347656,
+        "y": 836.98583984375,
         "width": 146.60281372070312,
         "height": 28.4459228515625
       },
@@ -8794,7 +8794,7 @@
         "letterSpacing": -0.38,
         "lineHeight": 24.0,
         "textAlignHorizontal": "LEFT",
-        "textAlignVertical": "TOP",
+        "textAlignVertical": "CENTER",
         "fills": [
           {
             "blendMode": "NORMAL",
@@ -8947,7 +8947,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/accompagnement-cta-bg-3-7.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/accompagnement-cta-bg-3-7.svg",
       "local_path": "images/accompagnement-cta-bg-3-7.svg",
       "public_path": "images/accompagnement-cta-bg-3-7.svg",
       "purpose": "background",
@@ -8976,7 +8976,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/mongolfiere-6-1081.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/mongolfiere-6-1081.svg",
       "local_path": "images/mongolfiere-6-1081.svg",
       "public_path": "images/mongolfiere-6-1081.svg",
       "purpose": "icon",
@@ -9005,7 +9005,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/motif-droite-6-1082.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/motif-droite-6-1082.svg",
       "local_path": "images/motif-droite-6-1082.svg",
       "public_path": "images/motif-droite-6-1082.svg",
       "purpose": "icon",
@@ -9034,7 +9034,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/background-3-6.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/background-3-6.svg",
       "local_path": "images/background-3-6.svg",
       "public_path": "images/background-3-6.svg",
       "purpose": "background",
@@ -9063,7 +9063,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-bleu-2-3-215.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-bleu-2-3-215.svg",
       "local_path": "images/icone-bleu-2-3-215.svg",
       "public_path": "images/icone-bleu-2-3-215.svg",
       "purpose": "icon",
@@ -9092,7 +9092,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-bleu-1-3-146.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-bleu-1-3-146.svg",
       "local_path": "images/icone-bleu-1-3-146.svg",
       "public_path": "images/icone-bleu-1-3-146.svg",
       "purpose": "icon",
@@ -9121,7 +9121,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-3-3-172.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-3-3-172.svg",
       "local_path": "images/icone-orange-3-3-172.svg",
       "public_path": "images/icone-orange-3-3-172.svg",
       "purpose": "icon",
@@ -9150,7 +9150,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-2-3-148.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-2-3-148.svg",
       "local_path": "images/icone-orange-2-3-148.svg",
       "public_path": "images/icone-orange-2-3-148.svg",
       "purpose": "icon",
@@ -9179,7 +9179,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-orange-1-3-154.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-orange-1-3-154.svg",
       "local_path": "images/icone-orange-1-3-154.svg",
       "public_path": "images/icone-orange-1-3-154.svg",
       "purpose": "icon",
@@ -9208,7 +9208,7 @@
       "format": "png",
       "render_mode": "composite",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/hero-image-9-1154.png",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/hero-image-9-1154.png",
       "local_path": "images/hero-image-9-1154.png",
       "public_path": "images/hero-image-9-1154.png",
       "purpose": "content",
@@ -9237,7 +9237,7 @@
       "format": "png",
       "render_mode": "composite",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/intro-accompagnement-foreground-38-103.png",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/intro-accompagnement-foreground-38-103.png",
       "local_path": "images/intro-accompagnement-foreground-38-103.png",
       "public_path": "images/intro-accompagnement-foreground-38-103.png",
       "purpose": "foreground",
@@ -9266,7 +9266,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-tous-nos-accomp-3-962.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-tous-nos-accomp-3-962.svg",
       "local_path": "images/fond-tous-nos-accomp-3-962.svg",
       "public_path": "images/fond-tous-nos-accomp-3-962.svg",
       "purpose": "decorative",
@@ -9295,7 +9295,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/embedded-bandeau-bg-3-5.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/embedded-bandeau-bg-3-5.svg",
       "local_path": "images/embedded-bandeau-bg-3-5.svg",
       "public_path": "images/embedded-bandeau-bg-3-5.svg",
       "purpose": "background",
@@ -9324,7 +9324,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-idees-7-1109.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-idees-7-1109.svg",
       "local_path": "images/icone-idees-7-1109.svg",
       "public_path": "images/icone-idees-7-1109.svg",
       "purpose": "icon",
@@ -9353,7 +9353,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bandeau-plus-3-263.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bandeau-plus-3-263.svg",
       "local_path": "images/bandeau-plus-3-263.svg",
       "public_path": "images/bandeau-plus-3-263.svg",
       "purpose": "icon",
@@ -9382,7 +9382,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-expertise-7-1110.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-expertise-7-1110.svg",
       "local_path": "images/icone-expertise-7-1110.svg",
       "public_path": "images/icone-expertise-7-1110.svg",
       "purpose": "icon",
@@ -9411,7 +9411,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bandeau-egal-3-264.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bandeau-egal-3-264.svg",
       "local_path": "images/bandeau-egal-3-264.svg",
       "public_path": "images/bandeau-egal-3-264.svg",
       "purpose": "icon",
@@ -9440,7 +9440,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/icone-aventure-7-1108.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/icone-aventure-7-1108.svg",
       "local_path": "images/icone-aventure-7-1108.svg",
       "public_path": "images/icone-aventure-7-1108.svg",
       "purpose": "icon",
@@ -9469,7 +9469,7 @@
       "format": "png",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/cir-3-910.png",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/cir-3-910.png",
       "local_path": "images/cir-3-910.png",
       "public_path": "images/cir-3-910.png",
       "purpose": "icon",
@@ -9498,7 +9498,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/logo-embedded-6-1102.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/logo-embedded-6-1102.svg",
       "local_path": "images/logo-embedded-6-1102.svg",
       "public_path": "images/logo-embedded-6-1102.svg",
       "purpose": "icon",
@@ -9527,7 +9527,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-le-labo-3-912.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-le-labo-3-912.svg",
       "local_path": "images/fond-le-labo-3-912.svg",
       "public_path": "images/fond-le-labo-3-912.svg",
       "purpose": "decorative",
@@ -9556,7 +9556,7 @@
       "format": "png",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-demandes-bg-20-1301.png",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-demandes-bg-20-1301.png",
       "local_path": "images/contact-demandes-bg-20-1301.png",
       "public_path": "images/contact-demandes-bg-20-1301.png",
       "purpose": "background",
@@ -9585,7 +9585,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-decor-bg-9-1191.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-decor-bg-9-1191.svg",
       "local_path": "images/contact-decor-bg-9-1191.svg",
       "public_path": "images/contact-decor-bg-9-1191.svg",
       "purpose": "background",
@@ -9614,7 +9614,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bg-formulaire-3-345.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bg-formulaire-3-345.svg",
       "local_path": "images/bg-formulaire-3-345.svg",
       "public_path": "images/bg-formulaire-3-345.svg",
       "purpose": "background",
@@ -9643,7 +9643,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-telephone-3-350.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-telephone-3-350.svg",
       "local_path": "images/zone-telephone-3-350.svg",
       "public_path": "images/zone-telephone-3-350.svg",
       "purpose": "icon",
@@ -9672,7 +9672,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-mail-3-351.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-mail-3-351.svg",
       "local_path": "images/zone-mail-3-351.svg",
       "public_path": "images/zone-mail-3-351.svg",
       "purpose": "icon",
@@ -9701,7 +9701,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/fond-logo-contact-15-1299.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/fond-logo-contact-15-1299.svg",
       "local_path": "images/fond-logo-contact-15-1299.svg",
       "public_path": "images/fond-logo-contact-15-1299.svg",
       "purpose": "icon",
@@ -9730,7 +9730,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/bg-mon-cv-3-916.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/bg-mon-cv-3-916.svg",
       "local_path": "images/bg-mon-cv-3-916.svg",
       "public_path": "images/bg-mon-cv-3-916.svg",
       "purpose": "background",
@@ -9759,7 +9759,7 @@
       "format": "png",
       "render_mode": "composite",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/contact-moi-portrait-9-1218.png",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/contact-moi-portrait-9-1218.png",
       "local_path": "images/contact-moi-portrait-9-1218.png",
       "public_path": "images/contact-moi-portrait-9-1218.png",
       "purpose": "content",
@@ -9788,7 +9788,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-msg-3-349.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-msg-3-349.svg",
       "local_path": "images/zone-msg-3-349.svg",
       "public_path": "images/zone-msg-3-349.svg",
       "purpose": "decorative",
@@ -9817,7 +9817,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-demande-3-348.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-demande-3-348.svg",
       "local_path": "images/zone-demande-3-348.svg",
       "public_path": "images/zone-demande-3-348.svg",
       "purpose": "decorative",
@@ -9846,7 +9846,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-societe-3-347.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-societe-3-347.svg",
       "local_path": "images/zone-societe-3-347.svg",
       "public_path": "images/zone-societe-3-347.svg",
       "purpose": "decorative",
@@ -9875,7 +9875,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/zone-nom-prenom-3-346.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/zone-nom-prenom-3-346.svg",
       "local_path": "images/zone-nom-prenom-3-346.svg",
       "public_path": "images/zone-nom-prenom-3-346.svg",
       "purpose": "decorative",
@@ -9904,7 +9904,7 @@
       "format": "svg",
       "render_mode": "image",
       "source_url": null,
-      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-98fov2lo/assets/footer-bg-3-75.svg",
+      "source_local_path": "C:/Users/damie/Documents/test_figma2hugo/.figma2hugo-tmp/figma2hugo-generate-c_11cspt/assets/footer-bg-3-75.svg",
       "local_path": "images/footer-bg-3-75.svg",
       "public_path": "images/footer-bg-3-75.svg",
       "purpose": "background",
