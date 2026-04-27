@@ -17,7 +17,8 @@
   --space-asset-width-46: 46.9600830078125;
   --space-asset-width-44: 44.300048828125;
   --space-asset-width-894: 894.7999267578125;
-  --space-asset-width-2132: 2132.510009765625;
+  --space-asset-width-870: 870.010009765625;
+  --space-asset-width-468: 468.0199890136719;
   --space-asset-width-1869: 1869.0400390625;
   --space-asset-width-150: 150.14483642578125;
   --space-asset-width-79: 79.04319763183594;
@@ -192,7 +193,7 @@ a {
   top: 2089.80px;
   width: 2139.18px;
   height: 430.32px;
-  z-index: 50;
+  z-index: 100;
 }
 
 .asset-mongolfiere {
@@ -200,7 +201,7 @@ a {
   top: 2149.10px;
   width: 119.43px;
   height: 242.06px;
-  z-index: 301;
+  z-index: 101;
 }
 
 .asset-motif-droite {
@@ -208,7 +209,7 @@ a {
   top: 2368.33px;
   width: 300.82px;
   height: 316.80px;
-  z-index: 302;
+  z-index: 102;
 }
 
 .text-texte-accomp {
@@ -491,12 +492,20 @@ a {
   color: rgb(255 255 255);
 }
 
-.asset-intro-accompagnement-foreground {
-  left: 0.28px;
+.asset-forme-droite {
+  left: 1262.78px;
   top: 123.10px;
-  width: 2132.51px;
-  height: 1405.19px;
+  width: 870.01px;
+  height: 981.02px;
   z-index: 373;
+}
+
+.asset-forme-gauche {
+  left: 0.28px;
+  top: 865.95px;
+  width: 468.02px;
+  height: 662.34px;
+  z-index: 374;
 }
 
 /* Section: embedded */
@@ -748,7 +757,7 @@ a {
   top: 2245.00px;
   width: 1996.80px;
   height: 1123.20px;
-  z-index: 50;
+  z-index: 100;
 }
 
 .asset-contact-decor-bg {
@@ -756,7 +765,7 @@ a {
   top: 1619.38px;
   width: 921.09px;
   height: 983.37px;
-  z-index: 51;
+  z-index: 101;
 }
 
 .asset-bg-formulaire {
@@ -764,7 +773,7 @@ a {
   top: 2292.34px;
   width: 866.54px;
   height: 1003.53px;
-  z-index: 52;
+  z-index: 182;
 }
 
 .asset-zone-msg {
@@ -772,7 +781,7 @@ a {
   top: 2826.75px;
   width: 728.59px;
   height: 389.08px;
-  z-index: 103;
+  z-index: 223;
 }
 
 .text-libelle-message {
@@ -798,7 +807,7 @@ a {
   top: 2708.51px;
   width: 728.59px;
   height: 98.82px;
-  z-index: 105;
+  z-index: 225;
 }
 
 .text-libelle-demande {
@@ -876,7 +885,7 @@ a {
   top: 2468.73px;
   width: 728.59px;
   height: 98.82px;
-  z-index: 111;
+  z-index: 231;
 }
 
 .text-libelle-societe {
@@ -902,7 +911,7 @@ a {
   top: 2349.20px;
   width: 728.59px;
   height: 98.82px;
-  z-index: 113;
+  z-index: 233;
 }
 
 .text-libelle-nom-prenom {
