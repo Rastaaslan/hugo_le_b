@@ -11,23 +11,79 @@
     <link rel="stylesheet" href="{{ $compiled.RelPermalink | strings.TrimPrefix "/" }}">
     {{- end -}}
   </head>
-    <body class="page page--{{ $page.page.slug }}">
+  <body class="page-body page-body--{{ $page.page.slug }}">
+    <div class="page-shell" data-page-shell>
+      <div class="page-scale-stage" data-page-stage>
+        <div class="page page--{{ $page.page.slug }}" data-page-root>
       {{- range $page.sections -}}
         {{- if or (eq .tag "header") (eq .tag "nav") -}}
           {{- partial "section.html" . | safeHTML -}}
         {{- end -}}
       {{- end -}}
-    <main class="page-main">
-      {{- range $page.sections -}}
-        {{- if and (ne .tag "header") (ne .tag "nav") (ne .tag "footer") -}}
-          {{- partial "section.html" . | safeHTML -}}
+          <main class="page-main">
+        {{- range $page.sections -}}
+          {{- if and (ne .tag "header") (ne .tag "nav") (ne .tag "footer") -}}
+            {{- partial "section.html" . | safeHTML -}}
+          {{- end -}}
         {{- end -}}
-      {{- end -}}
-    </main>
-    {{- range $page.sections -}}
-      {{- if eq .tag "footer" -}}
-        {{- partial "section.html" . | safeHTML -}}
-      {{- end -}}
-    {{- end -}}
+          </main>
+        {{- range $page.sections -}}
+          {{- if eq .tag "footer" -}}
+            {{- partial "section.html" . | safeHTML -}}
+          {{- end -}}
+        {{- end -}}
+        </div>
+      </div>
+    </div>
+    <script>
+      (() => {
+        const shell = document.querySelector("[data-page-shell]");
+        const stage = document.querySelector("[data-page-stage]");
+        const page = document.querySelector("[data-page-root]");
+
+        if (!shell || !stage || !page) {
+          return;
+        }
+
+        const compactQuery = window.matchMedia("(max-width: 1180px)");
+        let frameId = 0;
+
+        const applyScale = () => {
+          if (compactQuery.matches) {
+            shell.style.removeProperty("height");
+            stage.style.setProperty("--page-scale", "1");
+            return;
+          }
+
+          const pageWidth = page.offsetWidth || 2295;
+          const pageHeight = page.offsetHeight || 7589;
+          const viewportWidth = document.documentElement.clientWidth || window.innerWidth;
+          const availableWidth = Math.max(viewportWidth - 32, 320);
+          const scale = Math.min(1, availableWidth / pageWidth);
+
+          stage.style.setProperty("--page-scale", scale.toFixed(5));
+          shell.style.height = `${pageHeight * scale}px`;
+        };
+
+        const scheduleScale = () => {
+          window.cancelAnimationFrame(frameId);
+          frameId = window.requestAnimationFrame(applyScale);
+        };
+
+        window.addEventListener("resize", scheduleScale, { passive: true });
+        window.addEventListener("load", scheduleScale, { passive: true });
+
+        if (document.fonts && document.fonts.ready) {
+          document.fonts.ready.then(scheduleScale).catch(() => {});
+        }
+
+        if (typeof ResizeObserver !== "undefined") {
+          const resizeObserver = new ResizeObserver(scheduleScale);
+          resizeObserver.observe(page);
+        }
+
+        scheduleScale();
+      })();
+    </script>
   </body>
 </html>
